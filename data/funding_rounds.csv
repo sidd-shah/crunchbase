@@ -1,0 +1,9 @@
+uuid,funding_type,money_raised_usd,series,announced_on,announced_on_trust_code,closed_on,closed_on_trust_code,org_uuid
+000066459ef68958129a2e225e577eb8,venture,8500000,a,2007-03-17,7,None,None,dfaccc9438749fa7f1f9680dbd7d5f2c
+0001c3614849c8fbd6c6157bba9e0847,debt_financing,1250000,None,2014-11-26,7,None,None,97d154d6423eb046b335f60d9b9f2279
+0001cbd1f7e24a56607cc57f46cc7dcb,venture,15000000,C,2015-02-12,7,None,None,3c8f1ae916f1bd5f280063756ed685de
+0002db7cd74928a17c56578d92132174,equity_crowdfunding,827000,None,2013-10-01,7,None,None,d23030ec4ec30c2d9482113876316617
+0002fd5d8196b8d73612d799253faf9c,venture,4040262,d,2009-03-24,7,None,None,bfcbd499d199796f81ba8a5a239596f9
+0003c42b498ecd53aec653461d667c79,convertible_note,None,None,2016-06-07,7,None,None,dcfb7bb7fecf791643a730b1c153dc5d
+000433319b35507f990e72e376cdf7b8,seed,2000000,None,2010-02-03,7,None,None,c6eda1e4c526037ac5568af22254f01f
+000438640037f6fc65e914162c799655,private_equity,None,None,2012-11-30,7,None,None,6714225e31d5bc536fd359cc93de5234

@@ -1,0 +1,7 @@
+org_uuid,closed_on,closed_on_trust_code,founded_on,founded_on_trust_code,is_closed,name,num_employees_max,num_employees_min,number_of_investments,stock_exchange,stock_symbol,total_funding_usd,created_at,updated_at,role_company,role_group,role_investor,role_school
+00002470bff7622658000ca1b3787b6f,None,0,2013-01-01 00:00:00,4,False,Codementor,50,11,0,None,None,1800000,1374512901,1478109064,None,None,None,None
+00003a2cad4dff61997b7b22b2320895,None,0,2007-01-01 00:00:00,4,False,Smart MultiMedia,50,11,0,None,None,0,1283547050,1473651523,True,None,None,None
+00004c41aeebb5a0881264cf2d017cfb,None,0,2007-01-01 00:00:00,4,False,Martin Prosperity Institute - MPI,None,None,0,None,None,0,1414571749,1477061865,None,None,None,True
+000095de8e2b82f132a7c222ba3d5682,None,0,2001-01-01 00:00:00,4,False,Ultraprise Loan Technologies,None,None,0,None,None,9500000,1439025053,1477305994,None,None,None,None
+0000c0e1eb0092819a7f63dfa277e8df,None,0,None,None,False,Clinck,10,1,0,None,None,0,1431594247,1466739698,True,None,None,None
+0000d497c93aeea3eeb0a943dfb4f71e,None,0,2013-01-01 00:00:00,4,None,AutoOffer,10,1,0,None,None,0,1448079209,1478011755,True,None,None,None

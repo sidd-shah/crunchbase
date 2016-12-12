@@ -1,0 +1,11 @@
+org_uuid,city,region,country,latitude,longitude,type
+00002470bff7622658000ca1b3787b6f,Mountain View, CA,United States,None,None,True
+00002470bff7622658000ca1b3787b6f,Mountain View, CA,United States,None,None,False
+00003a2cad4dff61997b7b22b2320895,Houston, Texas,United States,None,None,True
+00003a2cad4dff61997b7b22b2320895,Houston, Texas,United States,None,None,False
+00004c41aeebb5a0881264cf2d017cfb,Toronto, ON,Canada,None,None,True
+00004c41aeebb5a0881264cf2d017cfb,Toronto, ON,Canada,None,None,False
+000095de8e2b82f132a7c222ba3d5682,Frederick, Maryland,United States,None,None,True
+000095de8e2b82f132a7c222ba3d5682,Frederick, Maryland,United States,None,None,False
+0000d497c93aeea3eeb0a943dfb4f71e,Copenhagen, Hovedstaden,Denmark,None,None,True
+0000d497c93aeea3eeb0a943dfb4f71e,Copenhagen, Hovedstaden,Denmark,None,None,False
